@@ -3,5 +3,5 @@ What is the feature?
 -------------------------------------------
 
 
-Screenshots (optional)
+Screenshots (optional but suggested)
 -------------------------------------------
