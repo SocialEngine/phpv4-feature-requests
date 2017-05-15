@@ -87,7 +87,7 @@ _Interest_: means we are interested to look when we are looking at features next
 
 _Accepted_: means that it is an accepted feature for a future update but does not mean it will be in the next update.
 
-_Accepted and implemented_: means it is already made and shows which version it will be in for the Milestone.
+_Implemented_: means it is already made and shows which version it will be in for the Milestone.
 
 _Third Party_: means that this would be best suited as a third party plugin or customization.
 
