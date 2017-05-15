@@ -12,3 +12,5 @@ If you have a suggestion for a new feature, please follow the steps below to sub
 5. We only accept ONE feature per request. Any requests with more than one feature will be closed.
 
 For further details, please view our [Contributing to SocialEngine PHP](https://github.com/SocialEngine/phpv4-feature-requests/blob/master/CONTRIBUTING.md) page.
+
+If you have a bug to report, please see our [**Issue Reports**](https://github.com/SocialEngine/phpv4-issues) page.
