@@ -79,7 +79,7 @@ Here's a sample of a feature request:
 >
 >Thanks for considering my request!
 
-_We reserve the right to remove, edit or alter any comments or feature requests or block anyone from posting to our tracker should they voilate these terms.
+_We reserve the right to remove, edit or alter any comments or feature requests or block anyone from posting to our tracker should they voilate these terms_
 
 **Label meanings
 
