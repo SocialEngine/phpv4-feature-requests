@@ -81,7 +81,7 @@ Here's a sample of a feature request:
 
 _We reserve the right to remove, edit or alter any comments or feature requests or block anyone from posting to our tracker should they voilate these terms_
 
-**Label meanings
+## Label meanings
 
 _Interest_: means we are interested to look when we are looking at features next time. We will then evaluate if it is possible.
 
